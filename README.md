@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h1 align="center">Hi Everyone 👋!</h1>
 
 ###
-
-<br clear="both">
 
 <p align="center">My name is Mauro, and I'm currently pursuing a degree in Mechatronics Engineering at the university.<br><br>In addition to my formal education, I'm also engaged in self-directed learning in the field of front-end development.</p>
 
